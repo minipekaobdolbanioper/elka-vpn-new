@@ -4,16 +4,13 @@
 #support-url: https://t.me/vpnelkabot
 #profile-web-page-url: https://t.me/vpnelkabot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.7.116:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=de.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@109.196.102.203:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=de.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@87.242.110.7:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=de.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@95.163.211.116:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=fi.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.7.116:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=fi.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@45.10.41.98:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=fi.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 WIFI-MOB
-
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@109.196.102.203:443?type=tcp&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&sni=ai.sellflow.org&flow=xtls-rprx-vision#@vpnelkabot 🇷🇺 Для соц. сетей и gpt
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&security=none&sni=127.0.0.1#%E2%AC%87%EF%B8%8F+%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B8
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1+%231+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%7C+%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?type=tcp&security=none&sni=127.0.0.1#%E2%AC%87%EF%B8%8F+%D0%9E%D0%91%D0%AB%D0%A7%D0%9D%D0%AB%D0%95+%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%AB
+vless://e026a9f0-e5fe-49a4-b8ad-f4a0f895442c@cz-smart.t1n2.com:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cz-smart.t1n2.com&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=c01fe3d45017db58#%F0%9F%87%A8%F0%9F%87%BF+%231+%D0%A7%D0%B5%D1%85%D0%B8%D1%8F+%7C+Reality
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@swe-01.gni-daed.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=swe-01.gni-daed.ru&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#%F0%9F%87%B8%F0%9F%87%AA+%232+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%7C+Reality
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@150.241.65.86:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=swe-01.gni-daed.ru&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4#%F0%9F%87%B8%F0%9F%87%AA+%233+%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F+%7C+Reality
+vless://74dd3bb4-8f4f-48d6-9a65-555eb808b9c7@trp.aradart.top:443?type=xhttp&security=reality&fp=chrome&sni=aparat.com&pbk=dc3O5Dt33E1G0yRQ2QSeu1sHKmdm5qttYU7iX9vaxGY&sid=cf13&spx=%2FOJvcwptSccl9SOr&path=%2F&mode=auto&extra=%7B%0A++%22xPaddingBytes%22+%3A+%22100-1000%22%0A%7D#%F0%9F%87%A9%F0%9F%87%AA+%234+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%7C+Reality
+vless://b9fa040f-38fd-47af-ad73-340f9bb16a6e@free05.anotherboring.top:443?security=reality&encryption=none&pbk=h488sFcSTt3WSk2qeagpYEAqEcdSomtcU1Hn1qIHpyU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=free05.anotherboring.top&sid=20525be38b363fe9#%F0%9F%87%A9%F0%9F%87%AA%20%235%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://b9fa040f-38fd-47af-ad73-340f9bb16a6e@free04.anotherboring.top:443?security=reality&encryption=none&pbk=h488sFcSTt3WSk2qeagpYEAqEcdSomtcU1Hn1qIHpyU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=free04.anotherboring.top&sid=20525be38b363fe9#%F0%9F%87%A9%F0%9F%87%AA%20%236%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://b9fa040f-38fd-47af-ad73-340f9bb16a6e@free03.anotherboring.top:443?security=reality&encryption=none&pbk=h488sFcSTt3WSk2qeagpYEAqEcdSomtcU1Hn1qIHpyU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=free03.anotherboring.top&sid=20525be38b363fe9#%F0%9F%87%A9%F0%9F%87%AA%20%237%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
